@@ -53,5 +53,5 @@ node /ABSOLUTE/PATH/TO/PARENT/FOLDER/payman-mcp-server/build/index.js
 
 If everything is good, you can now add the Payman MCP server to any client.
 
-For Claude Desktop: [Here](https://modelcontextprotocol.io/quickstart/server#claude-for-desktop-integration-issues)
-For Cursor: [Here](https://docs.cursor.com/context/model-context-protocol)
+- For Claude Desktop: [Here](https://modelcontextprotocol.io/quickstart/server#claude-for-desktop-integration-issues)
+- For Cursor: [Here](https://docs.cursor.com/context/model-context-protocol)
